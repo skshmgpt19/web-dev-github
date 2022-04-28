@@ -24,3 +24,6 @@ git rm filename.
 
 to revert back and delete 
 git reset --hard HEAD~1
+
+to delete branch- 
+git branch -D (branchname)
