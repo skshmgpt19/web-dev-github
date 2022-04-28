@@ -5,5 +5,9 @@ Git init
 Git Status
 git add testing.txt
 git commit -m "first commit"
+
 git config --global user.email "you@example.com"
 git config --global user.name "your name"
+or use git config --global --edit
+
+git log
