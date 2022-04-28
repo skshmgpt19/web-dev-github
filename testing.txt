@@ -34,6 +34,12 @@ git checkout -- .
 to reset for staged changes - 
 git reset filename
 
+making Github accoung and then making a repository
+
 for remote repository -
 git remote add origin https://github.com/skshmgpt19/web-dev-github.git
+
+-> need to sign in github -> create a Personal Access Token(keep it secret always)
+
 git push -u origin main
+-> then in dialogue box put the PAT
