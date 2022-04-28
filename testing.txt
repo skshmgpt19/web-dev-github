@@ -53,3 +53,6 @@ protocol=https
 
 how to get the update code / while collaborations->
 git pull 
+
+contributions -> 
+forking and pull request (requesting owner of the initial owner to pull the changes i made)
