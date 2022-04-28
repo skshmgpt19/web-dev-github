@@ -18,3 +18,9 @@ git checkout -b feature // to switch b/w branches and create new branch //
 bringing feature branch features to main branch -  merging two branches - 
 1 switch to the branch we want to merge into git checkout main 
 2 git merge feature
+
+to delete - 
+git rm filename.
+
+to revert back and delete 
+git reset --hard HEAD~1
