@@ -1,0 +1,9 @@
+This is my first git commit in visual studio code
+
+start with -> 
+Git init
+Git Status
+git add testing.txt
+git commit -m "first commit"
+git config --global user.email "you@example.com"
+git config --global user.name "your name"
