@@ -14,3 +14,7 @@ or use git config --global --edit
 git branch 
 git branch -m main
 git checkout -b feature // to switch b/w branches and create new branch //
+
+bringing feature branch features to main branch -  merging two branches - 
+1 switch to the branch we want to merge into git checkout main 
+2 git merge feature
