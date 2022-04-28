@@ -43,3 +43,13 @@ git remote add origin https://github.com/skshmgpt19/web-dev-github.git
 
 git push -u origin main
 -> then in dialogue box put the PAT
+
+removing PAT 
+git credential-osxkeychain erase
+host=github.com
+protocol=https
+
+(git clone url .) -> from remote repository to local repository.
+
+how to get the update code / while collaborations->
+git pull 
