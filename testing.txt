@@ -2,7 +2,7 @@ This is my first git commit in visual studio code
 
 start with -> 
 Git init
-Git Status
+---- Git Status
 git add testing.txt
 git commit -m "first commit"
 
@@ -10,4 +10,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "your name"
 or use git config --global --edit
 
-git log
+---- git log
+git branch 
+git branch -m main
+git checkout -b feature // to switch b/w branches and create new branch //
