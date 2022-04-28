@@ -30,3 +30,10 @@ git branch -D (branchname)
 
 to reset the same branch reverting back to unstaged changes- 
 git checkout -- .
+
+to reset for staged changes - 
+git reset filename
+
+for remote repository -
+git remote add origin https://github.com/skshmgpt19/web-dev-github.git
+git push -u origin main
