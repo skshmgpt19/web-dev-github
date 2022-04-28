@@ -27,3 +27,6 @@ git reset --hard HEAD~1
 
 to delete branch- 
 git branch -D (branchname)
+
+to reset the same branch reverting back to unstaged changes- 
+git checkout -- .
